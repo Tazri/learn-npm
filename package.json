@@ -1,0 +1,26 @@
+{
+  "name": "learn-npm",
+  "version": "1.0.0",
+  "description": "This package for learn npm.Learn how npm work and how to work with npm.Also what is npm.",
+  "main": "app.js",
+  "scripts": {
+    "start" : "node app.js",
+    "server" : "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tazri/learn-npm.git"
+  },
+  "author": "Md Tazri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tazri/learn-npm/issues"
+  },
+  "homepage": "https://github.com/Tazri/learn-npm#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
